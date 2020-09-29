@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap'); 
+
+.d-md-block {
+   padding-bottom: 100px;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+   padding-left: 0;
+   padding-right: 0;
+}
+
+.about-us {
+   padding-top: 30px;
+}
+
+h1 {
+   color: rgb(175, 175, 175);
+   font-family: 'Poiret One', cursive;
+}
+
+.btn, .btn-outline-dark {
+   margin-top: 30px;
+}
