@@ -15,7 +15,7 @@
 }
 
 h1 {
-   color: rgb(175, 175, 175);
+   color: #fff;
    font-family: 'Poiret One', cursive;
 }
 
@@ -43,3 +43,5 @@ h1 {
    border-width: 2px;
    border-color: #000000;
 }
+
+
