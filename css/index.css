@@ -31,6 +31,7 @@ h1 {
 #products > h2 {
    display: flex;
    justify-content: center;
+   text-align: center;
 }
 
 #products > div {
@@ -44,4 +45,19 @@ h1 {
    border-color: #000000;
 }
 
+.brands > h2 {
+   display: flex;
+   justify-content: center;
+   text-align: center;
+}
 
+#carouselBanner > div > div.carousel-item.active > div > h1 {
+   display: flex;
+   align-items: flex-end;
+}
+
+section:nth-child(6) > h2 {
+   display: flex;
+   justify-content: center;
+   text-align: center;
+}
