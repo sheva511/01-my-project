@@ -85,5 +85,9 @@ footer {
 .card {
    margin: 0 7px 0 7px;
 }     
+
+.bg-light {
+   border: none;
+}
  
 
